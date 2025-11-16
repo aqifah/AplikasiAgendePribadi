@@ -115,5 +115,3 @@ berbeda pada tiap tombol.
 ----------------------------------------------------
 Nama: Nor Aqifah
 NPM: 2310010196
-4.  Jalankan file AplikasiAgendaPribadi.java
-5.  Aplikasi siap digunakan
